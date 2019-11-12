@@ -5,6 +5,6 @@
   
 <p>Since 2012, I have been a Fellow of the Royal Geographical Society. My current role is in the IT project management area, and I have worked with GIS development teams. My current projects focus on improving geospatial data quality through automated rules-based logic.</p>
   
-<p>In my spare time, I volunteer with the official civilian auxiliary of the United States Air Force (USAF), helping with search and rescue and disaster relief operations. I also enjoy cooking, and travelling with my family.</p></h5>
+<p>In my spare time, I volunteer with the official civilian auxiliary of the United States Air Force (USAF), helping with search and rescue and disaster relief operations. I also enjoy cooking, and travelling with my family.</p>
 
 <a href="https://jlablacker.github.io/GEOG5991-Portfolio/">back</a>
