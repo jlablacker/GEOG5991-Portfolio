@@ -1,6 +1,6 @@
 <h5>Project Credits</h5>
 
-<li>Jekkell theme: Modernist by GitHub user<a href=https://github.com/orderedlist></a> orderedlist AKA Steve Smith.  This theme is available as a default GitHub pages theme.</li>
+Jekkell theme: Modernist by GitHub user <a>href=https://github.com/orderedlist</a>orderedlist AKA Steve Smith.  This theme is available as a default GitHub pages theme.
 
 <p></p>
 
