@@ -2,7 +2,7 @@
 <h1>"Hello World!"</h1>
 
 
-##I created this website as part of my coursework for GEOG 5991, "Programming for Geographical Information Analysts: Core Skills (WUN)" at the University of Leeds, United Kingdom.  This site went live on the 12 Nov 2019. See license file for full terms and conditions of use.
+<p>I created this website as part of my coursework for GEOG 5991, "Programming for Geographical Information Analysts: Core Skills (WUN)" at the University of Leeds, United Kingdom.  This site went live on the 12 Nov 2019. See license file for full terms and conditions of use.</p>
 
 
 ABOUT ME - Coming soon
