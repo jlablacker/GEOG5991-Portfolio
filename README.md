@@ -9,7 +9,7 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 
 </p>
 
-<li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/About.md">About Me - Coming soon</a></li>
+<li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/About.md">About Me</a></li>
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Agent.md">Agent Based Model - Coming soon</a></li>
 
