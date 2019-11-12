@@ -1,3 +1,6 @@
+---
+layout: jekyll-theme-modernist
+---
 <h1>About Me</h1>
 
 <h6>
