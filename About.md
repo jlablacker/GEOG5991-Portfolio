@@ -1,5 +1,8 @@
 <h1>About Me</h1>
 
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+
 <h5>
 <p>My name is James and I am a second year grad student here at the University of Leeds. Originally from South London, I am currently living and working in the United States.  I have an undergraduate degree in geography concentrating in GIS.  I spent 6 years as a GIS analyst working with the US government as well as the healthcare, and telecommunications industries.  
   
