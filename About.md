@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-<img align="left" width="250" height="250" src="http://www.fillmurray.com/250/250">
+<img align="left" width="150" height="150" src="http://www.fillmurray.com/150/150">
 
 
 <h5>
