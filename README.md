@@ -1,3 +1,6 @@
+# This site uses the Modernist Jekyll theme by Steve Smith. 
+
+
 <h3>In the tradition of software developers everywhere:</h3>
 <h1>"Hello World!"</h1>
 
