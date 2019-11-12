@@ -8,5 +8,5 @@
 <a href="https://jlablacker.github.io/GEOG5991-Portfolio/About.html">About Me - Coming soon</a> 
 <a href="https://jlablacker.github.io/GEOG5991-Portfolio/Agent.html">Agent Based Model - Coming soon</a> 
 <a href="https://jlablacker.github.io/GEOG5991-Portfolio/PythonCode.html"> Python Files - Coming soon</a>
-<h2>These were the code files used in the construction of the agent based model</h2>
+<h5>These were the code files used in the construction of the agent based model</h5>
 
