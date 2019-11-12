@@ -14,7 +14,6 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Agent.html">Agent Based Model</a></li>
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/PythonCodeFiles.html"> Python Files</a></li>
-<h5>These were the code files used in the construction of the agent based model.  Based in part on the code written by Dr. Andy Turner, Department of Geography, University of Leeds for GEOG 5991.</h5>
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/LICENSE.md"> License
 
