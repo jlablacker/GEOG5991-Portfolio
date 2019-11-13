@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-<img align="left" width="150" height="150" src="PLACEHOLDER IMAGE/150/150">
+<img align="left" width="125" height="125" src="PLACEHOLDER IMAGE">
 
 
 <h5>
