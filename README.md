@@ -10,16 +10,22 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 
 </p>
 
+<img align="right" width="200" height="200" src="https://jlablacker.github.io/GEOG5991-Portfolio/globe.png">
+
+
+
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/About.html">About Me</a></li>
+
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Agent.html">Agent Based Model</a></li>
 
+
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/PythonCodeFiles.html"> Python Files</a></li>
 
-<img align="right" width="200" height="200" src="https://jlablacker.github.io/GEOG5991-Portfolio/globe.png">
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/LICENSE.md"> License
-  
+
+
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Credits.md"> Site Credits
 
 
