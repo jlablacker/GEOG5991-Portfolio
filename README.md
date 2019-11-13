@@ -20,4 +20,4 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
   
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Credits.md"> Site Credits
 
-<img align="right" width="100" height="100" src="https://jlablacker.github.io/GEOG5991-Portfolio/globe.png"><img align="left" width="100" height="100" >/100/100">
+<img align="right" width="200" height="200" src="https://jlablacker.github.io/GEOG5991-Portfolio/globe.png/200/200">
