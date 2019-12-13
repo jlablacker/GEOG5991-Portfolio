@@ -1,8 +1,10 @@
 <h5>Project Credits</h5>
 
-Jekkell theme: Modernist by GitHub user [orderedlist](https://github.com/orderedlist) AKA Steve Smith.  This theme is available as a default GitHub pages theme.
+Site Jekkell theme: Modernist by GitHub user [orderedlist](https://github.com/orderedlist) AKA Steve Smith.  This theme is available as a default GitHub pages theme.
 
 Site Images: Own work
+
+Agent Based Model code based on code written by Dr. Andy Turner, University of Leeds.
 
 <p></p>
 
