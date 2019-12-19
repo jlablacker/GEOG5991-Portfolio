@@ -14,9 +14,16 @@ The example model that I constructed should:
 * randomizes the order of agent actions;
 * displays the model as an animation;
 * is contained within a GUI;
-* is initialised with data from the web.
+* is initialised with data from the web
 
 <a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v0.py">Agent Based Model</a>
+<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v0.py"> Agent Framework</a>
+<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v0.py"> </a>in.txt - A flat ASCII file that provides the environment for our model
+
+
+
+
+
 
 
 
