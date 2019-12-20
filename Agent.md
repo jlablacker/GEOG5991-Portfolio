@@ -29,7 +29,7 @@ To run this model:
 
 
  
-<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py" download="">Download</a>
+<a href="/blob/master/agent_based_model_v10.py" target="_blank">Agent Based Model</a>
 
 
 
