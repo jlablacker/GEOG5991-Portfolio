@@ -28,9 +28,10 @@ To run this model:
 4. Click on the Green arrow.
 
 <a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py" download> 
-  <src="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py" alt="Agent Based Model">
+  <src="" alt="Agent Based Model">
 </a>
 
+[Agent Based Model](https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py)
 
 (https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py) Agent Framework
 
