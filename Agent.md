@@ -19,7 +19,8 @@ The example model that I constructed should:
 <a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py">Agent Based Model</a>
 
 <a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py"> Agent Framework</a>
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/in(1).txt"> </a>in.txt - A flat ASCII file that provides the environment for our model
+
+<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/in(1).txt"> in.txt - A flat ASCII file that provides the environment for our model</a>
 
 
 
