@@ -28,11 +28,11 @@ To run this model:
 4. Click on the Green arrow.
 
 
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py">Agent Based Model</a>
+(https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py) Agent Based Model
 
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py"> Agent Framework</a>
+(https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py) Agent Framework
 
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/in(1).txt"> in.txt </a> - A flat ASCII file that provides the environment for our model
+(https://jlablacker.github.io/GEOG5991-Python-Code/blob/in(1).txt) - A flat ASCII file that provides the environment for our model
 
 
 
