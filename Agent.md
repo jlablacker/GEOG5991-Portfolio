@@ -35,7 +35,7 @@ To run this model:
 
 [Agent Framework](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agentframework_v3.py)
 
-[Agent Environment](in (1).txt) - A flat ASCII file that provides the environment for our model
+[Agent Environment](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/in%20(1).txt) - A flat ASCII file that provides the environment for our model
 
 
 
