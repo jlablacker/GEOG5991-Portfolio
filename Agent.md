@@ -33,9 +33,9 @@ To run this model:
 
 [Agent Based Model](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py)
 
-(https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py) Agent Framework
+[Agent Framework](https://github.com/jlablacker/GEOG5991-Python-Code/blob/agentframework_v3.py)
 
-(https://jlablacker.github.io/GEOG5991-Python-Code/blob/in(1).txt) - A flat ASCII file that provides the environment for our model
+[Agent Environment](https://github.com/jlablacker/GEOG5991-Python-Code/blob/in(1).txt) - A flat ASCII file that provides the environment for our model
 
 
 
