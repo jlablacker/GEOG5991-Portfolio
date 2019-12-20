@@ -29,12 +29,11 @@ To run this model:
 
 
 <a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py" download="agent_based_model_v10.py">Agent Based Model</a>
+
+<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agentframework_v3.py" download="Agent Framework">Agent Framework</a>
  
-[Agent Based Model](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py)
 
-[Agent Framework](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agentframework_v3.py)
-
-[Agent Environment](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/in%20(1).txt) - A flat ASCII file that provides the environment for our model
+<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/in%20(1).txt" download="Agent Environment">Agent Environment</a> - A flat ASCII file that provides the environment for our model
 
 
 
