@@ -1,8 +1,5 @@
 <h1>About Me</h1>
 
-<img align="left" width="125" height="125" src="PLACEHOLDER IMAGE">
-
-
   <h5>
   <p>I am a second year grad student here at the University of Leeds. Originally from South London, I am currently living and working in the United States.  I have an undergraduate degree in geography concentrating in GIS. I spent 6 years as a GIS analyst working with the US government as well as the healthcare, and telecommunications industries.  
   
