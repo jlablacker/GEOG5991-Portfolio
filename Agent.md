@@ -3,7 +3,7 @@
 In an Agent Based Model, 'Agents' are entities given traits and initial behavior rules that organize their actions and interactions. Stochasticity can be included in the assignment of agent characteristics and in determining which agents interact and how agents obtain information and make decisions.
  
 
-Cite: [i]Auchincloss, A. H., & Garcia, L. M. (2015). Brief introductory guide to agent-based modeling and an illustration from urban health research. Cadernos de saude publica, 31 Suppl 1(Suppl 1), 65–78. doi:10.1590/0102-311X00051615[/i]
+Cite: Auchincloss, A. H., & Garcia, L. M. (2015). Brief introductory guide to agent-based modeling and an illustration from urban health research. Cadernos de saude publica, 31 Suppl 1(Suppl 1), 65–78. doi:10.1590/0102-311X00051615
 
 The example model that I constructed:
 
@@ -28,6 +28,7 @@ To run this model:
 4. Click on the Green arrow.
 
 
+<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py" download="agent_based_model_v10.py">Agent Based Model</a>
  
 [Agent Based Model](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py)
 
