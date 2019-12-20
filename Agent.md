@@ -27,14 +27,11 @@ To run this model:
 
 4. Click on the Green arrow.
 
-<html>
-<body>
+
  
-<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py" download alt="Agent Based Model">
+<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py"Agent Based Model alt="Agent Based Model">
 </a>
 
-</html>
-</body>
 
 
 
