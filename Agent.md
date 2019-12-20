@@ -31,7 +31,7 @@ To run this model:
   <src="" alt="Agent Based Model">
 </a>
 
-[Agent Based Model](https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py)
+[Agent Based Model](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py)
 
 (https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py) Agent Framework
 
