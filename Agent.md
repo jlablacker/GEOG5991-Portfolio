@@ -7,18 +7,19 @@ Cite: Auchincloss, A. H., & Garcia, L. M. (2015). Brief introductory guide to ag
 
 The example model that I constructed should:
 
-* builds agents in a space;
-* gets them to interact with each other;
-* reads in environmental data;
-* gets agents to interact with the environment;
-* randomizes the order of agent actions;
-* displays the model as an animation;
-* is contained within a GUI;
-* is initialised with data from the web
+1. builds agents in a space;
+2. gets them to interact with each other;
+3. reads in environmental data;
+4. gets agents to interact with the environment;
+5. randomizes the order of agent actions;
+6. plays the model as an animation;
+7. is contained within a GUI;
+8. is initialised with data from the web
 
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v0.py">Agent Based Model</a>
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v0.py"> Agent Framework</a>
-<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v0.py"> </a>in.txt - A flat ASCII file that provides the environment for our model
+<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py">Agent Based Model</a>
+
+<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py"> Agent Framework</a>
+<a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/in(1).txt"> </a>in.txt - A flat ASCII file that provides the environment for our model
 
 
 
