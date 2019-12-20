@@ -27,7 +27,7 @@ To run this model:
 
 4. Click on the Green arrow.
 
-<a href="https://github.com/jlablacker/GEOG5991-Portfolio/blob/master/agent_based_model_v10.py" download> 
+<a href="https://github.com/jlablacker/GEOG5991-Portfolio/blob/master/agent_based_model_v10.py" download "Agent Based Model"> 
   <src="https://github.com/jlablacker/GEOG5991-Portfolio/blob/master/agent_based_model_v10.py" alt="Agent Based Model">
 </a>
 
