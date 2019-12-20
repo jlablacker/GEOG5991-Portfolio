@@ -17,10 +17,13 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/About.html">About Me</a></li>
 
 
+
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Agent.html">Agent Based Model</a></li>
 
 
+
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/LICENSE.md"> License
+  
 
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/Credits.html"> Site Credits
