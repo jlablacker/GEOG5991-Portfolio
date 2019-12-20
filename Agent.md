@@ -16,6 +16,18 @@ The example model that I constructed:
 7. is contained within a GUI;
 8. is initialised with data from the web
 
+
+To run this model: 
+
+1. Download the files below and copy them all into the same directory.  They were created in <li>https://www.spyder-ide.org/<li>Spyder Python 3. These files need to be together or the model will not run.   
+ 
+2. Open the Anaconda distribution that is included in the Spyder package.
+
+3. Open Agent Based Model
+
+4. Click on the Green arrow.
+
+
 <a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agent_based_model_v10.py">Agent Based Model</a>
 
 <a href="https://jlablacker.github.io/GEOG5991-Python-Code/blob/agentframework_v3.py"> Agent Framework</a>
