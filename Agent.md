@@ -29,11 +29,6 @@ To run this model:
 
 
  
-<a href="https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py" target="_blank">Agent Based Model</a>
-
-
-
-
 [Agent Based Model](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agent_based_model_v10.py)
 
 [Agent Framework](https://github.com/jlablacker/GEOG5991-Python-Code/blob/master/agentframework_v3.py)
