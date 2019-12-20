@@ -4,7 +4,7 @@ Site Jekkell theme: Modernist by GitHub user [orderedlist](https://github.com/or
 
 Site Images: Own work
 
-Agent Based Model code based on code written by Dr. Andy Turner, University of Leeds.
+Agent Based Model code based on code written by Dr. Andy Turner, University of Leeds.  Coded using Spyder.  Available from (https://www.spyder-ide.org/)
 
 <p></p>
 
