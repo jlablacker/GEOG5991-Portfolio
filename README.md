@@ -10,7 +10,7 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 
 </p>
 
-<img align="right" width="100" height="100">![alt text](https://jlablacker.github.io/GEOG5991-Portfolio/globe.png "Globe")
+<img align="left" width="100" height="100">![alt text](https://jlablacker.github.io/GEOG5991-Portfolio/globe.png "Globe")
 
 
 
