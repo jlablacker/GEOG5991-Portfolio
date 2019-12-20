@@ -19,7 +19,7 @@ The example model that I constructed:
 
 To run this model: 
 
-1. Download the files below and copy them all into the same directory.  They were created in <li>https://www.spyder-ide.org/<li>Spyder Python 3. These files need to be together or the model will not run.   
+1. Download the files below and copy them all into the same directory.  They were created in Spyder Python 3. These files need to be together or the model will not run.   
  
 2. Open the Anaconda distribution that is included in the Spyder package.
 
