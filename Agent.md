@@ -23,7 +23,7 @@ To run this model:
  
 2. Open the Anaconda distribution that is included in the Spyder package.
 
-3. Open Agent Based Model
+3. Open "Agent Based Model" and "Agent Framework"  in Spyder
 
 4. Click on the Green arrow.
 
