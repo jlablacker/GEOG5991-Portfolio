@@ -27,7 +27,7 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
   
   
   
-<li><a http="://github.com/jlablacker/GEOG5991-Portfolio/blob/master/README.md"> Read Me</a></li>
+<li><a href="https://github.com/jlablacker/GEOG5991-Portfolio/blob/master/README.md"> Read Me</a></li>
   
 
 
