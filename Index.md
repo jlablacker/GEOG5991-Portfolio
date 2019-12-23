@@ -23,11 +23,11 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 
 
 
-<li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/LICENSE.md"> License
+<li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/LICENSE.md"> License</a></li>
   
   
   
-<li><a http="://github.com/jlablacker/GEOG5991-Portfolio/blob/master/README.md"> Read Me
+<li><a http="://github.com/jlablacker/GEOG5991-Portfolio/blob/master/README.md"> Read Me</a></li>
   
 
 
