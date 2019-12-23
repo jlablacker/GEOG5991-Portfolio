@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <h3>In the tradition of software developers everywhere:</h3>
 <h1>"Hello World!"</h1>
 
@@ -24,6 +24,10 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
 
 
 <li><a href="https://jlablacker.github.io/GEOG5991-Portfolio/LICENSE.md"> License
+  
+  
+  
+<li><a http="://github.com/jlablacker/GEOG5991-Portfolio/blob/master/README.md"> Read Me
   
 
 
