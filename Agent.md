@@ -5,17 +5,6 @@ In an Agent Based Model, 'Agents' are entities given traits and initial behavior
 
 Cite: Auchincloss, A. H., & Garcia, L. M. (2015). Brief introductory guide to agent-based modeling and an illustration from urban health research. Cadernos de saude publica, 31 Suppl 1(Suppl 1), 65–78. doi:10.1590/0102-311X00051615
 
-The example model that I constructed:
-
-1. builds agents in a space;
-2. gets them to interact with each other;
-3. reads in environmental data;
-4. gets agents to interact with the environment;
-5. randomizes the order of agent actions;
-6. plays the model as an animation;
-7. is contained within a GUI;
-8. is initialised with data from the web
-
 
 To run this model: 
 
