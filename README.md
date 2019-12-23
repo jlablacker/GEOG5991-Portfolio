@@ -30,18 +30,18 @@ Click on the Green arrow.
 
 This code does work.  It has been created on a machine with the following specifications:
 
-Python 3.0
-Anaconda 3
-Windows 10 x64 bit
-8GB RAM
+* Python 3.0
+* Anaconda 3
+* Windows 10 x64 bit
+* 8GB RAM
 
 
 and tested on a separate machine with the following sepecifications:  
 
-Python 3.0
-Anaconda 3
-Windows 10 x64 bit
-6GB RAM
+* Python 3.0
+* Anaconda 3
+* Windows 10 x64 bit
+* 6GB RAM
 
 
 The following known bugs exist
