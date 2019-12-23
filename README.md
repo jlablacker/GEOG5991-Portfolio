@@ -39,7 +39,7 @@ and tested on a separate machine with the following sepecifications:
 
 
 
-A known bug is that when executed three windows are displayed.
+1. A known bug is that when executed three windows are displayed.
 
 
 
