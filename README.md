@@ -1,16 +1,17 @@
 The example model that I constructed throughout this course of study:
 
-builds agents in a space;
-gets them to interact with each other;
-reads in environmental data;
-gets agents to interact with the environment;
-randomizes the order of agent actions;
-plays the model as an animation;
-is contained within a GUI;
-is initialised with data from the web
+1. builds agents in a space;
+2. gets them to interact with each other;
+3. reads in environmental data;
+4. gets agents to interact with the environment;
+5. randomizes the order of agent actions;
+6. plays the model as an animation;
+7. is contained within a GUI;
+8. is initialised with data from the web
+
 To run this model:
 
-Download the files and copy them all into the same directory. They were created in Spyder Python 3. These files need to be together or the model will not run.
+Download the files on the agent page and copy them all into the same directory. They were created in Spyder Python 3. These files need to be together or the model will not run.
 
 Open the Anaconda distribution that is included in the Spyder package.
 
@@ -24,7 +25,12 @@ Click on the Green arrow.
 
 Agent Environment - A flat ASCII file that provides the environment for our model
 
+
+
+
 This code does work.  It has been created on a machine with the following specifications:
+
+
 
 
 and tested on a separate machine with the following sepecifications:  
