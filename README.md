@@ -19,11 +19,11 @@ Open "Agent Based Model" and "Agent Framework" in Spyder
 
 Click on the Green arrow.
 
-"Agent Based Model" - the completed model
+* "Agent Based Model" - the completed model
 
-"Agent Framework" - defines agents, the environment they work in, how they interact
+* "Agent Framework" - defines agents, the environment they work in, how they interact
 
-Agent Environment - A flat ASCII file that provides the environment for our model
+* Agent Environment - A flat ASCII file that provides the environment for our model
 
 
 
