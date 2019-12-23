@@ -1,4 +1,4 @@
-<h1> README <h1>
+<h1> README </h1>
 
 The example model that I constructed throughout this course of study:
 
