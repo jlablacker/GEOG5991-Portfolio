@@ -7,6 +7,6 @@
   
   <p>In my spare time, I volunteer with the official civilian auxiliary of the United States Air Force (USAF), helping with search and       rescue and disaster relief operations. I also enjoy cooking, and travelling with my family.</p>
 
-<a href="https://jlablacker.github.io/GEOG5991-Portfolio/">back</a>
+<a href="https://jlablacker.github.io/GEOG5991-Portfolio/Index.html">back</a>
 
 
