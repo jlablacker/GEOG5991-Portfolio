@@ -1,4 +1,4 @@
-<h1>About Me</h1>
+<h4>About Me</h4>
 
   
 <p>I am a second year graduate student here at the University of Leeds. Originally from South London, I am currently living and working in the United States.  I have an undergraduate degree in Geography concentrating in GIS. I spent 6 years as a GIS analyst working with the US government as well as the healthcare, and telecommunications industries.</p>
