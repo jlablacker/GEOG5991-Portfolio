@@ -6,6 +6,5 @@ Site Images: Own work
 
 Agent Based Model code based on code written by Dr. Andy Turner, University of Leeds.  Code written using Spyder, which is available from (https://www.spyder-ide.org/)
 
-<p></p>
 
 <a href="https://jlablacker.github.io/GEOG5991-Portfolio/Index.html">back</a>
