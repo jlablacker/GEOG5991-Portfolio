@@ -23,7 +23,7 @@ I created this website as part of my coursework for GEOG 5991, "Programming for 
   
   
   
-<a href="https://github.com/jlablacker/GEOG5991-Portfolio/README.html"> Read Me</a>
+<a href="https://github.com/jlablacker/GEOG5991-Portfolio/README.html"> Readme</a>
   
 
 
