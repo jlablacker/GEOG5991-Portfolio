@@ -1,6 +1,5 @@
 
-<h3>In the tradition of software developers everywhere:</h3>
-<h1>"Hello World!"</h1>
+<h1>In the tradition of software developers everywhere:"Hello World!"</h1>
 
 
 <p>
