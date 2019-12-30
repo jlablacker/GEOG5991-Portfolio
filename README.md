@@ -30,7 +30,7 @@ Click on the Green arrow.
 
 
 
-This code does work.  It has been created on a machine with the following specifications:
+This code processes without errors in Sypder.  It has been created on a machine with the following specifications:
 
 * Python 3.0
 * Anaconda 3
@@ -38,7 +38,7 @@ This code does work.  It has been created on a machine with the following specif
 * 8GB RAM
 
 
-and tested on a separate machine with the following sepecifications:  
+The code was also tested on a separate machine with the following sepecifications:  
 
 * Python 3.0
 * Anaconda 3
@@ -48,7 +48,7 @@ and tested on a separate machine with the following sepecifications:
 
 The following known bugs exist
 
-1. When executed three windows are displayed.
+1. The loadtimes or the visual elements are lengthy
 
 
 
